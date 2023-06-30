@@ -1,0 +1,11 @@
+
+.container{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+data-indicator{
+    background:red;
+    border-radius: 5px;
+}
